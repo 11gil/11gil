@@ -22,6 +22,7 @@ Obs.: em breve atualizarei essas informações.
 - LinkedIn: [Gilson Tavares](https://www.linkedin.com/in/gilson-tavares/)  
 - Email: gilson@example.com  
 
-## ⚡ Fun Fact
+## ⚡ Curiosidades  
 
-Apaixonado por ensinar e compartilhar conhecimento, principalmente com projetos de programação!  
+- Apaixonado por ensinar e compartilhar conhecimento, principalmente com projetos de programação!  
+- Pratico **atividade funcional na praia** e incentivo a comunidade local a participar de um estilo de vida mais saudável. 🏖️💪  
