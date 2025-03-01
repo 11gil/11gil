@@ -19,7 +19,7 @@ Tenho um canal no YouTube chamado **[Computação Criativa](https://www.youtube.
 ## 📫 Como me encontrar
 
 Obs.: em breve atualizarei essas informações.  
-- LinkedIn: [Gilson Tavares](https://www.linkedin.com/in/gilson-tavares/)  
+- LinkedIn: [Gilson Tavares](https://www.linkedin.com/in/gilsontavares/)  
 - Email: gilson@example.com  
 
 ## ⚡ Curiosidades  
