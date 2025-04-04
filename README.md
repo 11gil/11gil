@@ -8,7 +8,7 @@ Tenho um canal no YouTube chamado **[Computação Criativa](https://www.youtube.
 
 ## 🚀 Habilidades
 
-- **Programação:** Scratch, JavaScript  
+- **Programação:** Scratch, JavaScript, HTML, CSS, Java  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Plataformas:** Alura, Oracle Next Education (ONE)  
 
