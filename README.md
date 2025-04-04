@@ -9,7 +9,7 @@ Tenho um canal no YouTube chamado **[Computação Criativa](https://www.youtube.
 ## 🚀 Habilidades
 
 - **Programação:** Scratch, JavaScript, HTML, CSS, Java  
-- **Ferramentas:** Git, GitHub, VS Code  
+- **Ferramentas:** Git, GitHub, VS Code, IntelliJ  
 - **Plataformas:** Alura, Oracle Next Education (ONE)  
 
 ## 📚 Projetos Favoritos
@@ -18,9 +18,7 @@ Tenho um canal no YouTube chamado **[Computação Criativa](https://www.youtube.
 
 ## 📫 Como me encontrar
 
-Obs.: em breve atualizarei essas informações.  
 - LinkedIn: [Gilson Tavares](https://www.linkedin.com/in/gilsontavares/)  
-- Email: gilson@example.com  
 
 ## ⚡ Curiosidades  
 
